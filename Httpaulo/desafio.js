@@ -13,5 +13,5 @@ for (let i = 0; i < comanda.length; i++) {
 }
 let comandaComTaxa = somaDaComanda * 1.10;
 
-console.log(`Valor dos produtos: R$ ${somaDaComanda.toFixed(2)}`);
-console.log(`Valor com serviço (10%): R$ ${comandaComTaxa.toFixed(2)}`);
+console.log(`Soma da Comanda: R$ ${somaDaComanda.toFixed(2)}`);
+console.log(`Comanda com serviço (10%): R$ ${comandaComTaxa.toFixed(2)}`);
